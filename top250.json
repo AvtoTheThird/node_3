@@ -1,32 +1,2402 @@
 [
   {
-    "id": "bd3c926a-4150-46f6-aad2-c371b64a3ba7",
-    "title": "1+1",
-    "rating": "8.8",
-    "year": 2011,
-    "budget": 95000000,
-    "gross": 426588510,
-    "poster": "//avatars.mds.yandex.net/get-kinopoisk-image/1946459/bf93b465-1189-4155-9dd1-cb9fb5cb1bb5/300x450",
-    "position": 1
+    "title": "The Shawshank Redemption",
+    "rating": 8.707,
+    "year": 1994,
+    "budget": 25000000,
+    "gross": 28341469,
+    "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "position": 1,
+    "id": "fcf36e8e-b970-48ff-b7e3-b378d6bca09a"
   },
   {
-    "id": "ff78ea6e-d949-4543-b4b7-adad78e634cb",
-    "title": "Интерстеллар edited",
-    "rating": 8.6,
-    "year": 2014,
-    "budget": 165000000,
-    "gross": 733202212,
-    "poster": "https://kinopoisk-ru.clstorage.net/16sCr7146/8a472bRY/K2j91K3Gb53IcrFWQ92Ertg960oO60BNYEHPWrBP_g7XAfdTd0-O5S6Lmz6lY2C5Gz8P5EmSIVvgvJFUM56VyU-s2ED4U565eOf0srd4gWvdaW-_y9ok2eUljouFmkv8JAN0ceBt7ResiV0qwXcRXM7qm-AMV7VuEX3gIxA6wp36SY13n4Xt-6rx0WISHddNu80f6F77Fy1wMggIwh397Wayd0LAD0z2bImvu2FEda7c6OpCnJXkzJQ9Q6HQniOd-ct_pq9mXgl642Byg-8WrHoP_0v8-SePcrMYqjNOT32FERQTo13uFiy6rqtxJTWMPttbo323dr2XThHTc23CbEmJbEbcd967igAwohDutm7av-yoLutm7eLzyBpgz66dZmBmEMNcbMWeCs15Y4dFjQ8KOBE_5oSftM_jg4Hf4J2oO-3n_ZX8G-jjgSEBfTYsKixPam-alK-zcSqo0i_P3oUQxgCDXT6HXBmOq1EklN3-mrgjjzR2n8Ses8HRHCLte1t_pt5VLlqL8VFTwv_3Xnp-nNj_uPUvk7BqGjLvzo1nYZRyor1Ptwyo3PkjNVWfT_pLoa_mZdwVrtMiIM7SXMlrbZTO1j_LWPCQElK_dh77D27I3dgnLkKgGdlh_SyfFSLHEyEf_CdfaT15wkVHTu8YajEv5HU_Bg4R4CFdU435S_0XnMVd2mqQIkEw_ORv6F8OuK_bRv0ik9nYMP8vvpdiZtEhrWx0LYlNW8NXdr1MiGpBT_Z0Hgb8IYOx3rIsyCvMlu2235s4wpFgsP1W7hocvNuMqGe-MvBYiGOv3lyGslbjMOwPRcwpTpnSRMaMnLjrwa_l5TwHz5ERk73xjMhYHaWP9Q3bCmKRAwHtd05oXgwLzYhWrLEwOurSDy4s5XJnUbG8bJccuv87wtS0zT_YSWE9pna8J_xA4AG-gG3JysxmzobuCHjT0qGgH8bsKuz9aY0pp53S0Ki60j1_nYbC5CNirY2mDLu-a5IXdJ_-mVmxnadkLBVME7Bx3DCOGftstK7Vnbi4QVMCMCzUH5gsrfocqUfecGPZ2TFNvV-3MlchAQ2OZ0w6X7uhJgT8PCtZU53X1Nx1HgOj8p5Rv9obfEZvl18KSEOikdMMFs3afV3pvOkkbBDgOImCbk59FmE1AoL8Lkfuuo8ZwSb3Dp356SJcV8d8BtxS0KDt4M6r-0-mfJYdi4rSADDhHKVt-f79eJ4Y9Y9Dc_gosm5OnPeCxuDQ_hyVDfvuWXCXda5PCInjTIf0HwYMshKBDfEvS2mP5d32Pbn4kMJx8RzWnhk8HYgcSEaeYFD46VO-fq52UHTAoV3sxn5Y_4kTJBV9HdkL49311sz0_UFgI7_SnIppLSXM1645eNAioLIP1j5JDX0aTtqmbHED2MrDjH6tx3EXItGuT3S8eu350Lan_O_4yLH_9gdctOzhQZFesE-5OV-XPOYPCjkisCBzLxRe6v1t-Y8ZVs_wses68M4uHuSCR3NT7d1Vn3ifCWCmVZ8tSVvDj7S0jbQP4YIAnuAsuzsf1NzkHDo4wLPg8X7UjAntL1o9GKZvIuEYiNOPr81nEmQgYRy_BZ16bqqAt1U-LCj7ogxWVyxVLgMyYz3SfUv7DPXPtO5pC7OCEdMslq-rfc3JTEmHrXMS6SrgPdwtBNH0cNDdDkcP-52ootQ1Xp1YSINO5KV8FW5yQ2HfUv5ZCB3XPTZ_-HnCIyIBTXTOuC1N-k4IVu8xs_lYkE9cvcXBRiDizWwlfphfS8M2VM686ppwnQQmbYaPY_IRfLG_q5m9JW1WzfpLggPwIM4UfNpPbsq-KmbMINHqyIPdv6-HsmcT4z39N22p_JtSJgavP2pLQB3GNXxEH4BiIkxy7ipKHoeet23JytIgsHHf53_KPz843xsWzkCDCflyzh5vFqDkAwLNLnW82K2JQvVG7i6qq1GMR5Qtph5hkjNcQ44bqy1Wb_VfCTpxURDBTLb8-Q7--Z35JN_wUJraIb9t_KVDRHBCni4EbEjdesNkVf7cyXixPSS3bFSMMkBB3WE_mwr_VzzFDJt6EqEgQR8GbMlsXJjdijZ_UJDo2YA8fN6kYYXwQI09J9w6vPkChgfujgiaQ0yVxN_FDuPysS3z_0j5D6TMlD3KeBPx4sHdFN_oPx143xs2XbJDmgqz3_xtBHDF8LDPnnZu666agFRXb-9JG0KtheZ-Fa5zU5Gv0b-ICo0EvcY-Kdmys2HAHTU92L8siKwqpN1gsLi5A71vn2Vh5CJDv81EXVmu28GXJa9OCwnzTPakbDbsg2KQTFEP2SqtlN6GfHtJorKjs861b7ivzrpcejWd8VGp-oB9vs03IHdjcP-Olq66zQsy1cct_hvpMo2mFW-kPlNgMu_QL8lJLWSvdh8pqGPSopDfpn6IzR9pTGg2nDNyaurBj44PBeFUI3P8HRYd6-0o0ISULhyrClNOtZXdBU1TQlKMAez7qL03flWvu0rCMeAzH9c86wx8KvyKxJyAcbia0L2sHyZR1iKz3A50H5ls-6NXRwytemvD7idGvfSd47AjbLDumlo_RS7nzHvboGBQEq_VLKhcLzr92LRvI5HKGOJcXC00kwZCg0y8p0-rvJghdiQdPAgJ4Z2FFowFbcBwo79BPmr63VVfNX5aCEKgI5I_5H3ZDzzKXzkkrDLAW_uh_Y6fpoP2sSNd3kQviK_5ARV0Pq87WzN8d_attS6wA5Fd4Gw6Cq5Xvcfs6FjyIREiHXdPu85PWt-odl6xYcsbEi1835dzBWLTL1ymXDkNiDI1BYye2dmhPCdkL-U_wvBT_gKNu2iNp310TnooMdByEIz1beidfiuOqEZcAPDZa5KMPb5Wg6SCUy3dle_KbxrwRnVc_WiogI5l9r40j6LyQX_CD6h5fwVtZB_JOzKwkDEs903bDUy7nMrkXzMTGptgX7yvBuJ0cREf7bZcCy3pEicFLR_a25I8NVcfxt5Rk",
-    "position": 2
+    "title": "The Godfather",
+    "rating": 8.7,
+    "year": 1972,
+    "budget": 6000000,
+    "gross": 245066411,
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "position": 2,
+    "id": "2be7d83b-e2ad-4776-8f59-dc4002a84cda"
   },
   {
-    "title": "Интерстеллар",
+    "title": "The Godfather Part II",
     "rating": 8.6,
-    "year": 2014,
-    "budget": 165000000,
-    "gross": 733202212,
-    "poster": "lolololololo",
+    "year": 1974,
+    "budget": 13000000,
+    "gross": 102600000,
+    "poster": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
     "position": 3,
-    "id": "c3c95f50-a84a-4b5c-bcf8-45272241d4cc"
+    "id": "4009af5a-6391-4f46-a78c-fdccca5366f9"
+  },
+  {
+    "title": "Schindler's List",
+    "rating": 8.566,
+    "year": 1993,
+    "budget": 22000000,
+    "gross": 321365567,
+    "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "position": 4,
+    "id": "8f4f1fd4-bbf3-42bf-9cf5-6e044c304692"
+  },
+  {
+    "title": "12 Angry Men",
+    "rating": 8.546,
+    "year": 1957,
+    "budget": 397751,
+    "gross": 4360000,
+    "poster": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+    "position": 5,
+    "id": "88378f35-8f32-4090-a726-7445cc50340e"
+  },
+  {
+    "title": "Spirited Away",
+    "rating": 8.5,
+    "year": 2001,
+    "budget": 19000000,
+    "gross": 274925095,
+    "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "position": 6,
+    "id": "7cbb1c22-9f15-4d6b-b7fe-2533131a4ed0"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "rating": 8.5,
+    "year": 1995,
+    "budget": 13200000,
+    "gross": 100000000,
+    "poster": "https://image.tmdb.org/t/p/w500/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+    "position": 7,
+    "id": "c162b8af-2949-4262-84e6-4d974acdf3ce"
+  },
+  {
+    "title": "The Dark Knight",
+    "rating": 8.5,
+    "year": 2008,
+    "budget": 185000000,
+    "gross": 1004558444,
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "position": 8,
+    "id": "9b0de7ab-23f3-406a-811f-e8cad1b5b25f"
+  },
+  {
+    "title": "Parasite",
+    "rating": 8.506,
+    "year": 2019,
+    "budget": 11363000,
+    "gross": 257591776,
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "position": 9,
+    "id": "6bd27559-d083-462b-8bac-fcde10ea1618"
+  },
+  {
+    "title": "The Green Mile",
+    "rating": 8.506,
+    "year": 1999,
+    "budget": 60000000,
+    "gross": 286801374,
+    "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+    "position": 10,
+    "id": "7774dbb8-608c-4eff-8d1b-915baeae05d8"
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating": 8.5,
+    "year": 1994,
+    "budget": 8500000,
+    "gross": 213928762,
+    "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "position": 11,
+    "id": "3eaa1fd0-0342-47e1-97db-dc17ad848234"
+  },
+  {
+    "title": "Your Name.",
+    "rating": 8.485,
+    "year": 2016,
+    "budget": 0,
+    "gross": 358000000,
+    "poster": "https://image.tmdb.org/t/p/w500/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+    "position": 12,
+    "id": "a3179594-739d-43aa-9f55-8ed5de4d3031"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "rating": 8.482,
+    "year": 2003,
+    "budget": 94000000,
+    "gross": 1118888979,
+    "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "position": 13,
+    "id": "b49b4584-88f9-42e7-be47-03965f9dcbac"
+  },
+  {
+    "title": "Forrest Gump",
+    "rating": 8.47,
+    "year": 1994,
+    "budget": 55000000,
+    "gross": 677387716,
+    "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "position": 14,
+    "id": "7cdfb77b-7c96-4366-a74e-ce63c536500b"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "rating": 8.464,
+    "year": 1966,
+    "budget": 1200000,
+    "gross": 38900000,
+    "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+    "position": 15,
+    "id": "89dd45d3-7c0a-4a4a-b0e5-562129585bd4"
+  },
+  {
+    "title": "Seven Samurai",
+    "rating": 8.5,
+    "year": 1954,
+    "budget": 2000000,
+    "gross": 2626918,
+    "poster": "https://image.tmdb.org/t/p/w500/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+    "position": 16,
+    "id": "70cfdecd-1731-4fb8-9ca1-c4d87eb0249a"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "rating": 8.457,
+    "year": 1988,
+    "budget": 3700000,
+    "gross": 516962,
+    "poster": "https://image.tmdb.org/t/p/w500/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+    "position": 17,
+    "id": "17002691-82d3-469a-8870-31ba37de3d48"
+  },
+  {
+    "title": "GoodFellas",
+    "rating": 8.456,
+    "year": 1990,
+    "budget": 25000000,
+    "gross": 46800000,
+    "poster": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "position": 18,
+    "id": "82237820-ae34-43f6-a75f-d1a67d5df40a"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "rating": 8.4,
+    "year": 1988,
+    "budget": 5000000,
+    "gross": 11990401,
+    "poster": "https://image.tmdb.org/t/p/w500/rf99GAg2zHKFj79QKn8ed8iPCVF.jpg",
+    "position": 19,
+    "id": "5dbcf3a7-c189-49aa-a3c8-7f61d4b032e6"
+  },
+  {
+    "title": "Life Is Beautiful",
+    "rating": 8.449,
+    "year": 1997,
+    "budget": 20000000,
+    "gross": 230098753,
+    "poster": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+    "position": 20,
+    "id": "fbb1d1e4-eb9a-4e44-8070-978c7c1d6b8d"
+  },
+  {
+    "title": "Interstellar",
+    "rating": 8.4,
+    "year": 2014,
+    "budget": 165000000,
+    "gross": 701729206,
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "position": 21,
+    "id": "24bd6405-8ffa-431c-9415-67efa9ee8c0a"
+  },
+  {
+    "title": "Fight Club",
+    "rating": 8.437,
+    "year": 1999,
+    "budget": 63000000,
+    "gross": 100853753,
+    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "position": 22,
+    "id": "b6e5b7dc-154c-4b90-b947-6bfd1cedf959"
+  },
+  {
+    "title": "Psycho",
+    "rating": 8.4,
+    "year": 1960,
+    "budget": 806947,
+    "gross": 32000000,
+    "poster": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "position": 23,
+    "id": "8d6bd61a-7239-4d08-9c35-fc46ce5da6b5"
+  },
+  {
+    "title": "City of God",
+    "rating": 8.425,
+    "year": 2002,
+    "budget": 3300000,
+    "gross": 30641770,
+    "poster": "https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+    "position": 24,
+    "id": "a6559377-6929-4bf0-a7bc-ac2025b48d7a"
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "rating": 8.4,
+    "year": 1984,
+    "budget": 30000000,
+    "gross": 5500000,
+    "poster": "https://image.tmdb.org/t/p/w500/7jPWSo0yn6gW72LDuZvZq29uqpG.jpg",
+    "position": 25,
+    "id": "62f5333f-3749-4893-a210-869c797e57bd"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "rating": 8.415,
+    "year": 1975,
+    "budget": 3000000,
+    "gross": 108981275,
+    "poster": "https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+    "position": 26,
+    "id": "e9e9d5c9-3483-4add-ba08-51ab54379746"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": 8.415,
+    "year": 2001,
+    "budget": 93000000,
+    "gross": 871368364,
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "position": 27,
+    "id": "0f0b4c48-34f3-4235-b8bc-2f8d74e26f47"
+  },
+  {
+    "title": "Gabriel's Inferno",
+    "rating": 8.4,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+    "position": 28,
+    "id": "9195781a-c0c6-4be3-930e-71b18dc67f68"
+  },
+  {
+    "title": "A Dog's Will",
+    "rating": 8.4,
+    "year": 2000,
+    "budget": 0,
+    "gross": 4903192,
+    "poster": "https://image.tmdb.org/t/p/w500/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg",
+    "position": 29,
+    "id": "259ba39a-ce59-4f0a-ae1a-d6f2fde35d06"
+  },
+  {
+    "title": "The Wild Robot",
+    "rating": 8.403,
+    "year": 2024,
+    "budget": 78000000,
+    "gross": 317414420,
+    "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "position": 30,
+    "id": "b920bacc-3d67-495c-b694-12b3fe562f43"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "rating": 8.4,
+    "year": 2004,
+    "budget": 24000000,
+    "gross": 236049757,
+    "poster": "https://image.tmdb.org/t/p/w500/23hUJh7JdO23SpgUB5oiFDQk2wX.jpg",
+    "position": 31,
+    "id": "2bed2170-b8bd-4009-b930-d9f22ec2f403"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "rating": 8.399,
+    "year": 2002,
+    "budget": 79000000,
+    "gross": 926287400,
+    "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "position": 32,
+    "id": "957ab525-fe86-4375-a3d3-b5a440aee5a5"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "rating": 8.398,
+    "year": 2018,
+    "budget": 90000000,
+    "gross": 384298736,
+    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "position": 33,
+    "id": "32f2255e-3e39-47dd-aaab-b5266e7d6270"
+  },
+  {
+    "title": "Harakiri",
+    "rating": 8.397,
+    "year": 1962,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+    "position": 34,
+    "id": "27fbe985-910c-4ed0-9ed6-0a2a8076cc06"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "rating": 8.392,
+    "year": 1980,
+    "budget": 18000000,
+    "gross": 538400000,
+    "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "position": 35,
+    "id": "51a19cb9-374c-4f71-a3fe-e6b00fb25fc2"
+  },
+  {
+    "title": "Gabriel's Inferno: Part II",
+    "rating": 8.4,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+    "position": 36,
+    "id": "705c2287-f69f-483f-991f-a7ce91f21045"
+  },
+  {
+    "title": "Hope",
+    "rating": 8.388,
+    "year": 2013,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/x9yjkm9gIz5qI5fJMUTfBnWiB2o.jpg",
+    "position": 37,
+    "id": "3e6b286b-d1bf-4480-ba91-330b2705b779"
+  },
+  {
+    "title": "A Silent Voice: The Movie",
+    "rating": 8.4,
+    "year": 2016,
+    "budget": 0,
+    "gross": 30504476,
+    "poster": "https://image.tmdb.org/t/p/w500/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+    "position": 38,
+    "id": "8cb5af5f-f765-475f-a681-732d886a05c1"
+  },
+  {
+    "title": "Gabriel's Inferno: Part III",
+    "rating": 8.4,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+    "position": 39,
+    "id": "faa76957-d8d0-48bb-ad7b-5c80adfa7bb2"
+  },
+  {
+    "title": "Whiplash",
+    "rating": 8.4,
+    "year": 2014,
+    "budget": 3300000,
+    "gross": 50307484,
+    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "position": 40,
+    "id": "d5f3aae3-aeb5-4ea1-aa2c-4c9919e68608"
+  },
+  {
+    "title": "The Pianist",
+    "rating": 8.4,
+    "year": 2002,
+    "budget": 35000000,
+    "gross": 120098945,
+    "poster": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+    "position": 41,
+    "id": "3705517d-624c-4ccc-a1c6-ec9516ae5887"
+  },
+  {
+    "title": "Se7en",
+    "rating": 8.376,
+    "year": 1995,
+    "budget": 33000000,
+    "gross": 327311859,
+    "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "position": 42,
+    "id": "2a6365db-c2c6-4bfb-9025-e3d9af271986"
+  },
+  {
+    "title": "Inception",
+    "rating": 8.369,
+    "year": 2010,
+    "budget": 160000000,
+    "gross": 825532764,
+    "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "position": 43,
+    "id": "c7b29ca1-f1e0-467f-b8b5-ad96ca46bbe0"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "rating": 8.4,
+    "year": 2023,
+    "budget": 100000000,
+    "gross": 690897910,
+    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "position": 44,
+    "id": "15951ee3-b272-41c3-91ab-d5630703b221"
+  },
+  {
+    "title": "Rear Window",
+    "rating": 8.352,
+    "year": 1954,
+    "budget": 1000000,
+    "gross": 37042336,
+    "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+    "position": 45,
+    "id": "19d4d849-ed11-4d14-9d2e-ceff1a956792"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "rating": 8.3,
+    "year": 1991,
+    "budget": 19000000,
+    "gross": 272742922,
+    "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "position": 46,
+    "id": "0f7e01ee-acd8-46d9-aa42-d08abe9a66b5"
+  },
+  {
+    "title": "American History X",
+    "rating": 8.344,
+    "year": 1998,
+    "budget": 20000000,
+    "gross": 23900000,
+    "poster": "https://image.tmdb.org/t/p/w500/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg",
+    "position": 47,
+    "id": "f4133a91-82f2-4da3-8cf2-9c05eba961cc"
+  },
+  {
+    "title": "Princess Mononoke",
+    "rating": 8.3,
+    "year": 1997,
+    "budget": 23500000,
+    "gross": 169000000,
+    "poster": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+    "position": 48,
+    "id": "b3e9583c-7a38-4d37-a86e-4b662c59e53c"
+  },
+  {
+    "title": "High and Low",
+    "rating": 8.3,
+    "year": 1963,
+    "budget": 250000,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+    "position": 49,
+    "id": "b0f9a4cd-9fec-462f-9f2e-8077921c053f"
+  },
+  {
+    "title": "Back to the Future",
+    "rating": 8.317,
+    "year": 1985,
+    "budget": 19000000,
+    "gross": 381109762,
+    "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "position": 50,
+    "id": "113bae62-2b53-465a-9410-873c5e649eb2"
+  },
+  {
+    "title": "Perfect Blue",
+    "rating": 8.3,
+    "year": 1998,
+    "budget": 830000,
+    "gross": 112536,
+    "poster": "https://image.tmdb.org/t/p/w500/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+    "position": 51,
+    "id": "4b668329-25e0-408b-8b9c-d6a50cca6765"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "rating": 8.309,
+    "year": 1950,
+    "budget": 1752000,
+    "gross": 5000000,
+    "poster": "https://image.tmdb.org/t/p/w500/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+    "position": 52,
+    "id": "a358b5e3-18fb-4d9b-8e84-e7c8d7bc111b"
+  },
+  {
+    "title": "Dedicated to my ex",
+    "rating": 8.3,
+    "year": 2019,
+    "budget": 0,
+    "gross": 1315376,
+    "poster": "https://image.tmdb.org/t/p/w500/xc4bTXVwYNXi10jG9dwcaYt5IpU.jpg",
+    "position": 53,
+    "id": "f2f4da18-ef03-415c-a012-8c6009b67856"
+  },
+  {
+    "title": "Dead Poets Society",
+    "rating": 8.3,
+    "year": 1989,
+    "budget": 16400000,
+    "gross": 235900000,
+    "poster": "https://image.tmdb.org/t/p/w500/hmGAF5NDoYB6S39UONevjHCESOI.jpg",
+    "position": 54,
+    "id": "e6ddc953-0d04-49bd-8776-8b404201c727"
+  },
+  {
+    "title": "Léon: The Professional",
+    "rating": 8.306,
+    "year": 1994,
+    "budget": 16000000,
+    "gross": 45284974,
+    "poster": "https://image.tmdb.org/t/p/w500/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+    "position": 55,
+    "id": "f6ceb5d2-6049-49df-9f08-a9da9d15bb2f"
+  },
+  {
+    "title": "The Great Dictator",
+    "rating": 8.305,
+    "year": 1940,
+    "budget": 2000000,
+    "gross": 11000000,
+    "poster": "https://image.tmdb.org/t/p/w500/x0L9EQuQRsIrnov5aiHXrRegaGI.jpg",
+    "position": 56,
+    "id": "9a8a4cb0-5b38-4b7f-982c-15e18ffe4a09"
+  },
+  {
+    "title": "Hotarubi no Mori e",
+    "rating": 8.3,
+    "year": 2011,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg",
+    "position": 57,
+    "id": "2d55ab1e-8308-4804-8d07-73e136d5aa3a"
+  },
+  {
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "rating": 8.302,
+    "year": 1997,
+    "budget": 0,
+    "gross": 20563523,
+    "poster": "https://image.tmdb.org/t/p/w500/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+    "position": 58,
+    "id": "f7ba7656-342b-4085-b377-8b6d62130c90"
+  },
+  {
+    "title": "Ikiru",
+    "rating": 8.3,
+    "year": 1952,
+    "budget": 0,
+    "gross": 55240,
+    "poster": "https://image.tmdb.org/t/p/w500/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+    "position": 59,
+    "id": "8ad49e45-d025-42f9-9edd-a3545981640e"
+  },
+  {
+    "title": "Modern Times",
+    "rating": 8.3,
+    "year": 1936,
+    "budget": 1500000,
+    "gross": 1800000,
+    "poster": "https://image.tmdb.org/t/p/w500/9baQjJ85LKQZFFpNWR563SsK2rz.jpg",
+    "position": 60,
+    "id": "8ce2e48c-2476-49d2-a1ea-c8807aa84ed6"
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "rating": 8.288,
+    "year": 1968,
+    "budget": 5000000,
+    "gross": 5380118,
+    "poster": "https://image.tmdb.org/t/p/w500/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+    "position": 61,
+    "id": "f0a28af9-9ec2-4ca8-ab9c-fc5f8f64f177"
+  },
+  {
+    "title": "The Boy, the Mole, the Fox and the Horse",
+    "rating": 8.278,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/aBBJRyS17TIrdXih3uSYvPAR3Ua.jpg",
+    "position": 62,
+    "id": "46cb9a6c-3f79-475f-bb31-465ef7f06b78"
+  },
+  {
+    "title": "The Intouchables",
+    "rating": 8.276,
+    "year": 2011,
+    "budget": 13000000,
+    "gross": 426590315,
+    "poster": "https://image.tmdb.org/t/p/w500/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
+    "position": 63,
+    "id": "e59fa2fe-3341-4245-aa1f-b4166b880000"
+  },
+  {
+    "title": "Apocalypse Now",
+    "rating": 8.276,
+    "year": 1979,
+    "budget": 31500000,
+    "gross": 150000000,
+    "poster": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "position": 64,
+    "id": "395c6f8f-4c9b-4b52-9573-f86bbd37757a"
+  },
+  {
+    "title": "City Lights",
+    "rating": 8.3,
+    "year": 1931,
+    "budget": 1500000,
+    "gross": 4250000,
+    "poster": "https://image.tmdb.org/t/p/w500/ugmakEL5y294I5bXgiBqApuZpwc.jpg",
+    "position": 65,
+    "id": "e86b5b9c-9566-4dd7-88fe-5677c089b504"
+  },
+  {
+    "title": "One Direction: This Is Us",
+    "rating": 8.3,
+    "year": 2013,
+    "budget": 10000000,
+    "gross": 68500000,
+    "poster": "https://image.tmdb.org/t/p/w500/cxIoYa7uboxiDvWGxdad6fvgpcH.jpg",
+    "position": 66,
+    "id": "bfc7021a-f751-4681-93a0-7f27db8a8336"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "rating": 8.3,
+    "year": 1946,
+    "budget": 3180000,
+    "gross": 9644124,
+    "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+    "position": 67,
+    "id": "7f79ddba-620f-48c6-bac5-cb0b910a2e54"
+  },
+  {
+    "title": "Paths of Glory",
+    "rating": 8.27,
+    "year": 1957,
+    "budget": 935000,
+    "gross": 1200000,
+    "poster": "https://image.tmdb.org/t/p/w500/tJXwtzOSNUC8dxJfrdvkNtGrrgW.jpg",
+    "position": 68,
+    "id": "61d23b19-2f02-4e21-90e0-cc3990cc0d04"
+  },
+  {
+    "title": "We All Loved Each Other So Much",
+    "rating": 8.266,
+    "year": 1974,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/zGGWYpiKNwjpKxelPxOMqJnUgDs.jpg",
+    "position": 69,
+    "id": "3b188f23-f8e7-40d2-aab9-97dbde91477e"
+  },
+  {
+    "title": "Miracle in Cell No. 7",
+    "rating": 8.262,
+    "year": 2019,
+    "budget": 10000000,
+    "gross": 28000000,
+    "poster": "https://image.tmdb.org/t/p/w500/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+    "position": 70,
+    "id": "5c3cb6bd-c826-462e-bb57-8b24ea3ed873"
+  },
+  {
+    "title": "The Legend of 1900",
+    "rating": 8.3,
+    "year": 1998,
+    "budget": 9000000,
+    "gross": 21057208,
+    "poster": "https://image.tmdb.org/t/p/w500/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+    "position": 71,
+    "id": "35e96f1b-ab38-4df9-a83e-61694cd02806"
+  },
+  {
+    "title": "Oldboy",
+    "rating": 8.258,
+    "year": 2003,
+    "budget": 3000000,
+    "gross": 17500000,
+    "poster": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+    "position": 72,
+    "id": "230cd257-d627-487b-a79f-d291f38055a7"
+  },
+  {
+    "title": "Clouds",
+    "rating": 8.3,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg",
+    "position": 73,
+    "id": "a20dd969-b9a0-498c-a0de-56be81a79d42"
+  },
+  {
+    "title": "The Lion King",
+    "rating": 8.257,
+    "year": 1994,
+    "budget": 45000000,
+    "gross": 763455561,
+    "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "position": 74,
+    "id": "d775075d-09aa-4ce7-ac8b-6930181f98e7"
+  },
+  {
+    "title": "Life in a Year",
+    "rating": 8.3,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
+    "position": 75,
+    "id": "6feb0730-497f-4350-b3d2-85ceb518963d"
+  },
+  {
+    "title": "Come and See",
+    "rating": 8.3,
+    "year": 1985,
+    "budget": 0,
+    "gross": 20929648,
+    "poster": "https://image.tmdb.org/t/p/w500/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+    "position": 76,
+    "id": "90ba11ba-11d6-4a9a-9e9e-82bf317860fe"
+  },
+  {
+    "title": "Five Feet Apart",
+    "rating": 8.249,
+    "year": 2019,
+    "budget": 7000000,
+    "gross": 92600000,
+    "poster": "https://image.tmdb.org/t/p/w500/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg",
+    "position": 77,
+    "id": "5e066f04-c02e-431a-baab-bfbd6bbf8480"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "rating": 8.2,
+    "year": 2019,
+    "budget": 356000000,
+    "gross": 2799439100,
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "position": 78,
+    "id": "f5382463-5425-4505-a060-eb3827c56891"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "rating": 8.2,
+    "year": 2018,
+    "budget": 300000000,
+    "gross": 2052415039,
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "position": 79,
+    "id": "121d6beb-be1e-4d2d-93e6-a96774a172f0"
+  },
+  {
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "rating": 8.242,
+    "year": 2021,
+    "budget": 29700000,
+    "gross": 93882453,
+    "poster": "https://image.tmdb.org/t/p/w500/md5wZRRj8biHrGtyitgBZo7674t.jpg",
+    "position": 80,
+    "id": "e40dc33a-7475-428d-9708-9bcf79b1bbe9"
+  },
+  {
+    "title": "Green Book",
+    "rating": 8.241,
+    "year": 2018,
+    "budget": 23000000,
+    "gross": 319700000,
+    "poster": "https://image.tmdb.org/t/p/w500/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+    "position": 81,
+    "id": "cbd9927a-dc2a-42bc-868f-febd1529f6df"
+  },
+  {
+    "title": "Rascal Does Not Dream of a Dreaming Girl",
+    "rating": 8.2,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/gsRpizQa3fw1um8v7EvFVXvxD6u.jpg",
+    "position": 82,
+    "id": "aefe0532-e97f-4838-8fbe-94ef9fd360b4"
+  },
+  {
+    "title": "Klaus",
+    "rating": 8.239,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+    "position": 83,
+    "id": "c02670ba-3de0-49ab-a87c-552077d16c1b"
+  },
+  {
+    "title": "Mommy",
+    "rating": 8.2,
+    "year": 2014,
+    "budget": 4900000,
+    "gross": 3494070,
+    "poster": "https://image.tmdb.org/t/p/w500/3zyQtPg3avKprmJP2gBiYgyWUQC.jpg",
+    "position": 84,
+    "id": "aa600e30-68ac-4842-b8ec-ea3d57875787"
+  },
+  {
+    "title": "Baraka",
+    "rating": 8.231,
+    "year": 1992,
+    "budget": 4000000,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg",
+    "position": 85,
+    "id": "8617a4a2-56a7-412d-b223-dc9a3e0f4cfc"
+  },
+  {
+    "title": "Wolf Children",
+    "rating": 8.229,
+    "year": 2012,
+    "budget": 0,
+    "gross": 55060661,
+    "poster": "https://image.tmdb.org/t/p/w500/3Nllh6JgcrFdtOn6iFOWHudNInd.jpg",
+    "position": 86,
+    "id": "319b40e1-8abb-4b34-a503-a0ecd9c4bb28"
+  },
+  {
+    "title": "I Want to Eat Your Pancreas",
+    "rating": 8.2,
+    "year": 2018,
+    "budget": 0,
+    "gross": 33748006,
+    "poster": "https://image.tmdb.org/t/p/w500/qDWA7fB4cZ4sBP6YgwlxvraDHi7.jpg",
+    "position": 87,
+    "id": "905c2a9b-07e7-43f4-b6bc-d37f2315cf0c"
+  },
+  {
+    "title": "Wolfwalkers",
+    "rating": 8.226,
+    "year": 2020,
+    "budget": 12000000,
+    "gross": 1310720,
+    "poster": "https://image.tmdb.org/t/p/w500/53VE3Iv9NiCOJfFMWwQuRUQMaXZ.jpg",
+    "position": 88,
+    "id": "421fe95d-9100-4260-afe2-7565ca9ffa6e"
+  },
+  {
+    "title": "Puss in Boots: The Last Wish",
+    "rating": 8.2,
+    "year": 2022,
+    "budget": 90000000,
+    "gross": 484700000,
+    "poster": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+    "position": 89,
+    "id": "821ad385-a28c-4132-af3e-0225560226ab"
+  },
+  {
+    "title": "Il Sorpasso",
+    "rating": 8.221,
+    "year": 1962,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/4h1ckrJQVcQYjeOkqS8i9BqZ9MI.jpg",
+    "position": 90,
+    "id": "6766fe0c-87a0-4ad4-b38d-726b142db6b2"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "rating": 8.2,
+    "year": 2009,
+    "budget": 70000000,
+    "gross": 321457747,
+    "poster": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+    "position": 91,
+    "id": "76e82671-1f6b-43b4-b0a5-cb1541b7fe83"
+  },
+  {
+    "title": "The Matrix",
+    "rating": 8.2,
+    "year": 1999,
+    "budget": 63000000,
+    "gross": 463517383,
+    "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+    "position": 92,
+    "id": "adee7d3e-dd14-4f32-a4c3-f0365056e4ba"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "rating": 8.217,
+    "year": 1998,
+    "budget": 70000000,
+    "gross": 481840909,
+    "poster": "https://image.tmdb.org/t/p/w500/AdpcyHDrwxUuBi6OCSvNbAmRLKK.jpg",
+    "position": 93,
+    "id": "d63e3a9b-c4f8-4909-8d9a-55967e012512"
+  },
+  {
+    "title": "Gladiator",
+    "rating": 8.217,
+    "year": 2000,
+    "budget": 103000000,
+    "gross": 465361176,
+    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "position": 94,
+    "id": "ebd650a2-3ff5-4b57-b6d9-6604f0b0ecb0"
+  },
+  {
+    "title": "Justice League Dark: Apokolips War",
+    "rating": 8.216,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+    "position": 95,
+    "id": "a9ef6a34-9465-4c01-94e7-5c8e31c7c0eb"
+  },
+  {
+    "title": "The Handmaiden",
+    "rating": 8.2,
+    "year": 2016,
+    "budget": 8575000,
+    "gross": 38600000,
+    "poster": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+    "position": 96,
+    "id": "1ec38b6a-4f17-4354-a10f-89638327861a"
+  },
+  {
+    "title": "The Shining",
+    "rating": 8.2,
+    "year": 1980,
+    "budget": 19000000,
+    "gross": 44781695,
+    "poster": "https://image.tmdb.org/t/p/w500/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+    "position": 97,
+    "id": "6c89cd1e-7c08-4f85-b797-7d9fb8b0e1d5"
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "rating": 8.2,
+    "year": 1957,
+    "budget": 3000000,
+    "gross": 9000000,
+    "poster": "https://image.tmdb.org/t/p/w500/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+    "position": 98,
+    "id": "cef2134e-4d97-497f-896f-d4ed06644c0d"
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "rating": 8.211,
+    "year": 2020,
+    "budget": 15700000,
+    "gross": 507119058,
+    "poster": "https://image.tmdb.org/t/p/w500/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+    "position": 99,
+    "id": "63136def-f1b0-4711-b71e-ce30c2d6ad27"
+  },
+  {
+    "title": "The Help",
+    "rating": 8.211,
+    "year": 2011,
+    "budget": 25000000,
+    "gross": 216600000,
+    "poster": "https://image.tmdb.org/t/p/w500/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+    "position": 100,
+    "id": "e98673b7-e10f-488a-a777-ac401983d94b"
+  },
+  {
+    "title": "Coco",
+    "rating": 8.209,
+    "year": 2017,
+    "budget": 175000000,
+    "gross": 807816196,
+    "poster": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "position": 101,
+    "id": "8d39bd80-fd75-4048-b12e-223e398f8308"
+  },
+  {
+    "title": "Star Wars",
+    "rating": 8.2,
+    "year": 1977,
+    "budget": 11000000,
+    "gross": 775398007,
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "position": 102,
+    "id": "8b2dfbef-0e35-4246-9fc2-0df7da94c21d"
+  },
+  {
+    "title": "The Prestige",
+    "rating": 8.203,
+    "year": 2006,
+    "budget": 40000000,
+    "gross": 109676311,
+    "poster": "https://image.tmdb.org/t/p/w500/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg",
+    "position": 103,
+    "id": "4bffc0a4-0649-4236-8fae-a61b7b85ef5b"
+  },
+  {
+    "title": "Shutter Island",
+    "rating": 8.202,
+    "year": 2010,
+    "budget": 80000000,
+    "gross": 294804195,
+    "poster": "https://image.tmdb.org/t/p/w500/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg",
+    "position": 104,
+    "id": "2b258c65-985e-46f2-a6fc-73dbc2ce7a38"
+  },
+  {
+    "title": "The Count of Monte-Cristo",
+    "rating": 8.2,
+    "year": 2024,
+    "budget": 46700000,
+    "gross": 74885636,
+    "poster": "https://image.tmdb.org/t/p/w500/7O0WDGsa4lBzqv3uaB1tp8UvFK3.jpg",
+    "position": 105,
+    "id": "199d7127-746d-44b2-82e8-c748d58fc537"
+  },
+  {
+    "title": "Maquia: When the Promised Flower Blooms",
+    "rating": 8.2,
+    "year": 2018,
+    "budget": 0,
+    "gross": 4345395,
+    "poster": "https://image.tmdb.org/t/p/w500/uEHRrl6M5MekLNMg0xHvoWnxxi6.jpg",
+    "position": 106,
+    "id": "f56f8d0c-3e0d-4616-86ed-dbf530c75230"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "rating": 8.2,
+    "year": 2022,
+    "budget": 170000000,
+    "gross": 1488732821,
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "position": 107,
+    "id": "473fa6af-d9a8-45f4-a70a-3df76b876663"
+  },
+  {
+    "title": "The Apartment",
+    "rating": 8.198,
+    "year": 1960,
+    "budget": 3000000,
+    "gross": 25000000,
+    "poster": "https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+    "position": 108,
+    "id": "1cd82144-84fa-4024-9216-7abedcee2056"
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "rating": 8.2,
+    "year": 2016,
+    "budget": 40000000,
+    "gross": 175302354,
+    "poster": "https://image.tmdb.org/t/p/w500/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+    "position": 109,
+    "id": "d316606d-ea5a-4918-8e39-44b4a4e30a04"
+  },
+  {
+    "title": "Bicycle Thieves",
+    "rating": 8.2,
+    "year": 1948,
+    "budget": 133000,
+    "gross": 450159,
+    "poster": "https://image.tmdb.org/t/p/w500/rLpveWO1hTNYF9LUZJZgTdq5nyf.jpg",
+    "position": 110,
+    "id": "304641d0-7bc6-4383-b9d0-6cbdda32503a"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "rating": 8.2,
+    "year": 1971,
+    "budget": 2200000,
+    "gross": 27033812,
+    "poster": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+    "position": 111,
+    "id": "faf597a6-773a-486c-94c8-e7eb5ed189cb"
+  },
+  {
+    "title": "The Seventh Seal",
+    "rating": 8.2,
+    "year": 1957,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/j6z3c6dGXtPHUATJX8J7Y70mM1S.jpg",
+    "position": 112,
+    "id": "19977618-bd42-4ae9-a646-5b0633933fd4"
+  },
+  {
+    "title": "The Art of Racing in the Rain",
+    "rating": 8.188,
+    "year": 2019,
+    "budget": 18000000,
+    "gross": 33800000,
+    "poster": "https://image.tmdb.org/t/p/w500/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+    "position": 113,
+    "id": "4153efce-b7ce-49ae-b189-14b7d47480b0"
+  },
+  {
+    "title": "Doctor Who: The Day of the Doctor",
+    "rating": 8.2,
+    "year": 2013,
+    "budget": 0,
+    "gross": 10000000,
+    "poster": "https://image.tmdb.org/t/p/w500/yxLra5R61s5J4M5L3mqOY42K5md.jpg",
+    "position": 114,
+    "id": "e3bd1163-df33-4010-87a1-cda62e982d0e"
+  },
+  {
+    "title": "Michael Jackson's Thriller",
+    "rating": 8.2,
+    "year": 1983,
+    "budget": 1100000,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/dYHGoPMkZMVuBA4EydmDQMo1EEv.jpg",
+    "position": 115,
+    "id": "b59b98de-9dea-4c08-a094-9c982a77a9db"
+  },
+  {
+    "title": "Django Unchained",
+    "rating": 8.2,
+    "year": 2012,
+    "budget": 100000000,
+    "gross": 425368238,
+    "poster": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "position": 116,
+    "id": "088174e6-8c60-488a-a34f-9500c1c89e2f"
+  },
+  {
+    "title": "Memento",
+    "rating": 8.181,
+    "year": 2000,
+    "budget": 9000000,
+    "gross": 40047236,
+    "poster": "https://image.tmdb.org/t/p/w500/nWtySDlffTfwAa0rSfq61o33ZXV.jpg",
+    "position": 117,
+    "id": "035ff74c-37b1-4219-ab11-82de6e865673"
+  },
+  {
+    "title": "Tokyo Story",
+    "rating": 8.2,
+    "year": 1953,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg",
+    "position": 118,
+    "id": "36954169-7078-4b0a-acda-ba2ed4c04a61"
+  },
+  {
+    "title": "Hamilton",
+    "rating": 8.178,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+    "position": 119,
+    "id": "5451a2a6-42a0-4ba9-9d50-15eae0cfc7b3"
+  },
+  {
+    "title": "The Usual Suspects",
+    "rating": 8.2,
+    "year": 1995,
+    "budget": 6000000,
+    "gross": 23300000,
+    "poster": "https://image.tmdb.org/t/p/w500/rWbsxdwF9qQzpTPCLmDfVnVqTK1.jpg",
+    "position": 120,
+    "id": "7ffe6935-cb04-4e3d-b1dd-7b305c751095"
+  },
+  {
+    "title": "Persona",
+    "rating": 8.175,
+    "year": 1966,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/mAE4uwrXLlzo5AAxEorFvErdumq.jpg",
+    "position": 121,
+    "id": "43c7251c-c503-4b52-8bac-e4b2f6e5e4f9"
+  },
+  {
+    "title": "Investigation of a Citizen Above Suspicion",
+    "rating": 8.2,
+    "year": 1970,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg",
+    "position": 122,
+    "id": "66572124-8d82-4c84-aa01-b92f2d8ba083"
+  },
+  {
+    "title": "The Kid",
+    "rating": 8.172,
+    "year": 1921,
+    "budget": 250000,
+    "gross": 2500000,
+    "poster": "https://image.tmdb.org/t/p/w500/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+    "position": 123,
+    "id": "b2370498-28bc-4bbb-a2f3-2f7ad9553001"
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "rating": 8.168,
+    "year": 2021,
+    "budget": 0,
+    "gross": 195870885,
+    "poster": "https://image.tmdb.org/t/p/w500/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
+    "position": 124,
+    "id": "dbd6145e-add5-4860-a3ce-bdf1bad64adb"
+  },
+  {
+    "title": "My Hero Academia: Heroes Rising",
+    "rating": 8.168,
+    "year": 2019,
+    "budget": 0,
+    "gross": 30017163,
+    "poster": "https://image.tmdb.org/t/p/w500/zGVbrulkupqpbwgiNedkJPyQum4.jpg",
+    "position": 125,
+    "id": "b1f4f4bd-afca-46ca-a11a-70a05872bb36"
+  },
+  {
+    "title": "Vertigo",
+    "rating": 8.2,
+    "year": 1958,
+    "budget": 2479000,
+    "gross": 7808900,
+    "poster": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+    "position": 126,
+    "id": "0ec3091d-b399-4c9a-8f49-685d51ca442c"
+  },
+  {
+    "title": "Scarface",
+    "rating": 8.2,
+    "year": 1983,
+    "budget": 25000000,
+    "gross": 66023329,
+    "poster": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+    "position": 127,
+    "id": "e24abafa-3f41-4c8b-aadd-694ebc497eb1"
+  },
+  {
+    "title": "The Departed",
+    "rating": 8.161,
+    "year": 2006,
+    "budget": 90000000,
+    "gross": 291465000,
+    "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "position": 128,
+    "id": "5d04a731-d2ce-4223-a844-82810444250c"
+  },
+  {
+    "title": "Capernaum",
+    "rating": 8.2,
+    "year": 2018,
+    "budget": 4000000,
+    "gross": 64978931,
+    "poster": "https://image.tmdb.org/t/p/w500/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+    "position": 129,
+    "id": "0be07bc3-4495-4dba-85f6-10200661ce27"
+  },
+  {
+    "title": "Silenced",
+    "rating": 8.159,
+    "year": 2011,
+    "budget": 2200000,
+    "gross": 31500000,
+    "poster": "https://image.tmdb.org/t/p/w500/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+    "position": 130,
+    "id": "6f408c19-cdd4-4e6c-b1c8-72a30434db0d"
+  },
+  {
+    "title": "Alien",
+    "rating": 8.159,
+    "year": 1979,
+    "budget": 11000000,
+    "gross": 104931801,
+    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "position": 131,
+    "id": "fd74de79-651e-4f7d-911b-cc2704613b35"
+  },
+  {
+    "title": "Steven Universe: The Movie",
+    "rating": 8.2,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+    "position": 132,
+    "id": "d641511b-35fa-4229-a5e0-e9d0eb5843a4"
+  },
+  {
+    "title": "Casablanca",
+    "rating": 8.2,
+    "year": 1943,
+    "budget": 878000,
+    "gross": 10462500,
+    "poster": "https://image.tmdb.org/t/p/w500/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+    "position": 133,
+    "id": "45382cd8-afe0-4283-ba78-f256e99aa104"
+  },
+  {
+    "title": "Good Will Hunting",
+    "rating": 8.157,
+    "year": 1997,
+    "budget": 10000000,
+    "gross": 225900000,
+    "poster": "https://image.tmdb.org/t/p/w500/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg",
+    "position": 134,
+    "id": "d3d3a90a-e996-48cc-912e-c5d8c9d2d6b6"
+  },
+  {
+    "title": "20th Century Girl",
+    "rating": 8.2,
+    "year": 2022,
+    "budget": 119,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/od22ftNnyag0TTxcnJhlsu3aLoU.jpg",
+    "position": 135,
+    "id": "f83aa4ad-63a1-4a20-8e93-b0ca4db615f2"
+  },
+  {
+    "title": "Stalker",
+    "rating": 8.2,
+    "year": 1979,
+    "budget": 120000,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/npvwT8SxBPNqX7MAE9yYMuGCZcB.jpg",
+    "position": 136,
+    "id": "ece3f811-05cb-4f85-94b8-34e7eb3c5992"
+  },
+  {
+    "title": "Togo",
+    "rating": 8.152,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/wX0QD36a80hxulcizz7tyahYOF8.jpg",
+    "position": 137,
+    "id": "0b7b4bff-3656-4d12-8c4f-9ce98c8e02b9"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "rating": 8.2,
+    "year": 1952,
+    "budget": 2540800,
+    "gross": 7200000,
+    "poster": "https://image.tmdb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+    "position": 138,
+    "id": "76635083-a1e9-498e-9cbe-5706ec5f1d24"
+  },
+  {
+    "title": "Dune: Part Two",
+    "rating": 8.2,
+    "year": 2024,
+    "budget": 190000000,
+    "gross": 714444358,
+    "poster": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "position": 139,
+    "id": "548f5414-664e-41c1-abb1-80271647b697"
+  },
+  {
+    "title": "8½",
+    "rating": 8.2,
+    "year": 1963,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/ja0uRnwFwnVFJlNMYL10orpjWtq.jpg",
+    "position": 140,
+    "id": "81813c66-dc6b-425e-92eb-e43a13a21fc1"
+  },
+  {
+    "title": "Piper",
+    "rating": 8.1,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/rfEkkVzmrMYqGezNLl02mVyJCP2.jpg",
+    "position": 141,
+    "id": "7b06966f-6f39-4311-886b-ba87a8c4e081"
+  },
+  {
+    "title": "The Shop Around the Corner",
+    "rating": 8.148,
+    "year": 1940,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+    "position": 142,
+    "id": "e1664f2b-e51f-482d-bac3-154846f08ebb"
+  },
+  {
+    "title": "There's Still Tomorrow",
+    "rating": 8.146,
+    "year": 2023,
+    "budget": 9000000,
+    "gross": 49245771,
+    "poster": "https://image.tmdb.org/t/p/w500/4Hi7yjiQjokEDStT1MOj5rPgRfW.jpg",
+    "position": 143,
+    "id": "5be500c1-08cc-4f51-970c-a9fd6ef22216"
+  },
+  {
+    "title": "Joker",
+    "rating": 8.1,
+    "year": 2019,
+    "budget": 55000000,
+    "gross": 1078958629,
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "position": 144,
+    "id": "a2e4e2a8-f8ea-456c-8936-74348d24b183"
+  },
+  {
+    "title": "The Truman Show",
+    "rating": 8.1,
+    "year": 1998,
+    "budget": 60000000,
+    "gross": 264100000,
+    "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "position": 145,
+    "id": "89a64305-4b13-4c26-a9c2-0da0819de4e4"
+  },
+  {
+    "title": "Bound by Honor",
+    "rating": 8.141,
+    "year": 1993,
+    "budget": 35000000,
+    "gross": 4500000,
+    "poster": "https://image.tmdb.org/t/p/w500/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+    "position": 146,
+    "id": "a7bb4ceb-93a7-40aa-b672-c2948a1d2309"
+  },
+  {
+    "title": "Taxi Driver",
+    "rating": 8.141,
+    "year": 1976,
+    "budget": 1900000,
+    "gross": 28579636,
+    "poster": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "position": 147,
+    "id": "69b61b2f-6ebd-4250-806c-d6ee8a11f5f4"
+  },
+  {
+    "title": "Zack Snyder's Justice League",
+    "rating": 8.1,
+    "year": 2021,
+    "budget": 70000000,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "position": 148,
+    "id": "13f75a23-64a3-4eeb-9aff-1751f3cf0522"
+  },
+  {
+    "title": "Wild Strawberries",
+    "rating": 8.137,
+    "year": 1957,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+    "position": 149,
+    "id": "ea0668bb-b872-4573-9c9c-09253124ed8a"
+  },
+  {
+    "title": "My Friends",
+    "rating": 8.1,
+    "year": 1975,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/8Pm8SLjq2UHCwisd56ipHtzvZI1.jpg",
+    "position": 150,
+    "id": "6123fd36-cb1b-4149-8ddc-5935f9b41286"
+  },
+  {
+    "title": "Palmer",
+    "rating": 8.13,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+    "position": 151,
+    "id": "d7ef9358-4be7-46d6-b4e4-2ca9fbbb9fbd"
+  },
+  {
+    "title": "Wonder",
+    "rating": 8.1,
+    "year": 2017,
+    "budget": 20000000,
+    "gross": 315025930,
+    "poster": "https://image.tmdb.org/t/p/w500/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg",
+    "position": 152,
+    "id": "7c545cb2-0db9-402f-b454-e4f707702c02"
+  },
+  {
+    "title": "Call Me by Your Name",
+    "rating": 8.1,
+    "year": 2017,
+    "budget": 3500000,
+    "gross": 43143046,
+    "poster": "https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+    "position": 153,
+    "id": "71252d42-981e-4577-b528-17e31eadaf4b"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "rating": 8.1,
+    "year": 1987,
+    "budget": 30000000,
+    "gross": 46357676,
+    "poster": "https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+    "position": 154,
+    "id": "e73debe7-d03b-4cab-b0d2-888b1228eef1"
+  },
+  {
+    "title": "Soul",
+    "rating": 8.1,
+    "year": 2020,
+    "budget": 150000000,
+    "gross": 121977511,
+    "poster": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+    "position": 155,
+    "id": "9d8b490e-feb9-403b-947b-64b4b8ae81d1"
+  },
+  {
+    "title": "The Father",
+    "rating": 8.122,
+    "year": 2020,
+    "budget": 6000000,
+    "gross": 21029340,
+    "poster": "https://image.tmdb.org/t/p/w500/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+    "position": 156,
+    "id": "75b78a76-f529-4f6f-8dc3-af37e2a0f113"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "rating": 8.1,
+    "year": 1992,
+    "budget": 1200000,
+    "gross": 2859750,
+    "poster": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+    "position": 157,
+    "id": "7c96f0fd-448c-43d0-bda4-0e1e2621d683"
+  },
+  {
+    "title": "The Hate U Give",
+    "rating": 8.121,
+    "year": 2018,
+    "budget": 23000000,
+    "gross": 34934009,
+    "poster": "https://image.tmdb.org/t/p/w500/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+    "position": 158,
+    "id": "f8413baf-84da-4d4b-a221-8f6acf21e85c"
+  },
+  {
+    "title": "Central Station",
+    "rating": 8.121,
+    "year": 1998,
+    "budget": 2900000,
+    "gross": 5596708,
+    "poster": "https://image.tmdb.org/t/p/w500/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg",
+    "position": 159,
+    "id": "889bd2ca-af15-4b6c-b7c0-097615d3045b"
+  },
+  {
+    "title": "Senna",
+    "rating": 8.1,
+    "year": 2010,
+    "budget": 0,
+    "gross": 8212430,
+    "poster": "https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg",
+    "position": 160,
+    "id": "fc34409e-dadd-4ff1-89e3-8c2a55a98852"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "rating": 8.12,
+    "year": 1991,
+    "budget": 102000000,
+    "gross": 520000000,
+    "poster": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+    "position": 161,
+    "id": "2393ef3c-e561-423f-ac64-74422b36f6db"
+  },
+  {
+    "title": "Purple Hearts",
+    "rating": 8.118,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+    "position": 162,
+    "id": "d1d0def4-2cc6-40ca-a8e5-d5720ec5750a"
+  },
+  {
+    "title": "Along with the Gods: The Last 49 Days",
+    "rating": 8.119,
+    "year": 2018,
+    "budget": 18300000,
+    "gross": 112790210,
+    "poster": "https://image.tmdb.org/t/p/w500/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg",
+    "position": 163,
+    "id": "5c3d9c3b-b0a5-4968-8024-1deeb33ec5ec"
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "rating": 8.119,
+    "year": 1998,
+    "budget": 1350000,
+    "gross": 28356188,
+    "poster": "https://image.tmdb.org/t/p/w500/wt2TRBmFmBn5M5MBcPTwovlREaB.jpg",
+    "position": 164,
+    "id": "4e28decb-7faa-4f05-9e8f-9f48786b7046"
+  },
+  {
+    "title": "Metropolis",
+    "rating": 8.117,
+    "year": 1927,
+    "budget": 5300000,
+    "gross": 1350322,
+    "poster": "https://image.tmdb.org/t/p/w500/vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
+    "position": 165,
+    "id": "2701572d-7338-4dc1-98c5-1a79b2967c7b"
+  },
+  {
+    "title": "The Salt of the Earth",
+    "rating": 8.1,
+    "year": 2014,
+    "budget": 0,
+    "gross": 1059804,
+    "poster": "https://image.tmdb.org/t/p/w500/jRmQNj8NacAHJnzwfvFvglKSGB6.jpg",
+    "position": 166,
+    "id": "a2b643b4-1253-4dbb-bf24-31a26d5f9042"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "rating": 8.115,
+    "year": 1964,
+    "budget": 1800000,
+    "gross": 9500000,
+    "poster": "https://image.tmdb.org/t/p/w500/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
+    "position": 167,
+    "id": "abe5abdf-fddd-475c-9c97-b536dff936bc"
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "rating": 8.1,
+    "year": 2019,
+    "budget": 5740000,
+    "gross": 9923127,
+    "poster": "https://image.tmdb.org/t/p/w500/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+    "position": 168,
+    "id": "9494137c-a5c9-41d0-b965-88dd1dbb2b3a"
+  },
+  {
+    "title": "Double Indemnity",
+    "rating": 8.1,
+    "year": 1944,
+    "budget": 927262,
+    "gross": 2500000,
+    "poster": "https://image.tmdb.org/t/p/w500/bNCTRXJjPvVsh71nwo6kcFzUZvh.jpg",
+    "position": 169,
+    "id": "41fa1b15-5722-4c2b-9f4d-1d0ee3bf3118"
+  },
+  {
+    "title": "The Invisible Guest",
+    "rating": 8.113,
+    "year": 2017,
+    "budget": 4000000,
+    "gross": 30000000,
+    "poster": "https://image.tmdb.org/t/p/w500/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg",
+    "position": 170,
+    "id": "f153d979-907d-4b99-b68c-053651cf55f4"
+  },
+  {
+    "title": "In the Mood for Love",
+    "rating": 8.1,
+    "year": 2000,
+    "budget": 150000,
+    "gross": 14204632,
+    "poster": "https://image.tmdb.org/t/p/w500/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+    "position": 171,
+    "id": "53038a2c-60b7-46f0-8d52-62598a5535c3"
+  },
+  {
+    "title": "Paris, Texas",
+    "rating": 8.1,
+    "year": 1984,
+    "budget": 1750000,
+    "gross": 2181987,
+    "poster": "https://image.tmdb.org/t/p/w500/tqsz4nHSLvKcKio4FSEYFBEIEbo.jpg",
+    "position": 172,
+    "id": "eeef0400-8564-43cc-8464-3ce010eb71c8"
+  },
+  {
+    "title": "Incendies",
+    "rating": 8.105,
+    "year": 2010,
+    "budget": 6800000,
+    "gross": 6788659,
+    "poster": "https://image.tmdb.org/t/p/w500/yDNrRBVewTdwyCxcg4ULuyHfHot.jpg",
+    "position": 173,
+    "id": "7adb3964-81f2-4547-9953-45f73df608d3"
+  },
+  {
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "rating": 8.104,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+    "position": 174,
+    "id": "73de16e9-860c-486c-b492-9e0693f6beed"
+  },
+  {
+    "title": "The Hunt",
+    "rating": 8.1,
+    "year": 2012,
+    "budget": 3800000,
+    "gross": 18300000,
+    "poster": "https://image.tmdb.org/t/p/w500/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
+    "position": 175,
+    "id": "b7710453-5339-4a11-8adc-1088218973ec"
+  },
+  {
+    "title": "Big Deal on Madonna Street",
+    "rating": 8.099,
+    "year": 1958,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/f5OxD8Nl0pR3DcYHtYhHRfpsmjl.jpg",
+    "position": 176,
+    "id": "d3f47929-d1bf-4bb3-91c7-aa24704c85c8"
+  },
+  {
+    "title": "Prisoners",
+    "rating": 8.1,
+    "year": 2013,
+    "budget": 46000000,
+    "gross": 122126687,
+    "poster": "https://image.tmdb.org/t/p/w500/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+    "position": 177,
+    "id": "94d01749-872c-4645-adea-5b09269098a6"
+  },
+  {
+    "title": "Some Like It Hot",
+    "rating": 8.098,
+    "year": 1959,
+    "budget": 2883848,
+    "gross": 25000000,
+    "poster": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+    "position": 178,
+    "id": "cdf55ef5-7c5d-4a32-bfd4-084d598e7be8"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "rating": 8.1,
+    "year": 2004,
+    "budget": 20000000,
+    "gross": 72258126,
+    "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "position": 179,
+    "id": "59de762e-8e64-48dc-a66e-085eb29b0d08"
+  },
+  {
+    "title": "Yojimbo",
+    "rating": 8.1,
+    "year": 1961,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+    "position": 180,
+    "id": "a3e99bdc-5742-4798-b85a-fc00a458c910"
+  },
+  {
+    "title": "WALL·E",
+    "rating": 8.1,
+    "year": 2008,
+    "budget": 180000000,
+    "gross": 521311860,
+    "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "position": 181,
+    "id": "0db3f733-bf09-4b00-bc0f-25f69d7c3d72"
+  },
+  {
+    "title": "Transformers One",
+    "rating": 8.094,
+    "year": 2024,
+    "budget": 75000000,
+    "gross": 128888103,
+    "poster": "https://image.tmdb.org/t/p/w500/qbkAqmmEIZfrCO8ZQAuIuVMlWoV.jpg",
+    "position": 182,
+    "id": "a8cf34d4-d20d-4766-b67b-766d40781041"
+  },
+  {
+    "title": "The Best of Youth",
+    "rating": 8.1,
+    "year": 2003,
+    "budget": 0,
+    "gross": 2693053,
+    "poster": "https://image.tmdb.org/t/p/w500/ltmcFRvTeAgBgMLUGa15KzDSQqs.jpg",
+    "position": 183,
+    "id": "51c03560-7b9f-4ec2-a687-e9b11472901a"
+  },
+  {
+    "title": "All About Eve",
+    "rating": 8.1,
+    "year": 1950,
+    "budget": 1400000,
+    "gross": 8400000,
+    "poster": "https://image.tmdb.org/t/p/w500/qU5QzNDrsusmuqKW6FsSvHYoIEQ.jpg",
+    "position": 184,
+    "id": "477f4382-0185-454a-a852-81240fbb6a82"
+  },
+  {
+    "title": "The Tale of The Princess Kaguya",
+    "rating": 8.093,
+    "year": 2013,
+    "budget": 49300000,
+    "gross": 24366656,
+    "poster": "https://image.tmdb.org/t/p/w500/cQidJuA546OSSXKWXoiCeINDxuj.jpg",
+    "position": 185,
+    "id": "b074db91-4c40-44a6-844a-ae7f11723aa4"
+  },
+  {
+    "title": "Miraculous World: New York, United HeroeZ",
+    "rating": 8.1,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+    "position": 186,
+    "id": "09eed1a5-da4f-4888-b704-e4bcb357a74b"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "rating": 8.092,
+    "year": 2011,
+    "budget": 125000000,
+    "gross": 1341511219,
+    "poster": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+    "position": 187,
+    "id": "9824b665-25ab-4f67-bc36-21548bd167af"
+  },
+  {
+    "title": "La Haine",
+    "rating": 8.092,
+    "year": 1995,
+    "budget": 2600000,
+    "gross": 15300000,
+    "poster": "https://image.tmdb.org/t/p/w500/a6DGCZC2fHNr07tyRumM30ALEKE.jpg",
+    "position": 188,
+    "id": "7bd4a5be-d045-4dc1-b421-584cc853ed00"
+  },
+  {
+    "title": "La Dolce Vita",
+    "rating": 8.087,
+    "year": 1960,
+    "budget": 0,
+    "gross": 19647000,
+    "poster": "https://image.tmdb.org/t/p/w500/skFeWHHBwbQNfXep9OEdrQPJKoS.jpg",
+    "position": 189,
+    "id": "46c6f216-8549-47d3-b9c3-d8d844d0fb17"
+  },
+  {
+    "title": "Das Boot",
+    "rating": 8.086,
+    "year": 1981,
+    "budget": 14000000,
+    "gross": 85000000,
+    "poster": "https://image.tmdb.org/t/p/w500/hafqfgdsbvZIDgml6GmRKs5VL4m.jpg",
+    "position": 190,
+    "id": "74a40d5e-431a-4e72-81b1-08728fc739f4"
+  },
+  {
+    "title": "M",
+    "rating": 8.1,
+    "year": 1931,
+    "budget": 0,
+    "gross": 35274,
+    "poster": "https://image.tmdb.org/t/p/w500/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg",
+    "position": 191,
+    "id": "812c40d8-c2bb-4aef-9204-c2a05be6e002"
+  },
+  {
+    "title": "Guillermo del Toro's Pinocchio",
+    "rating": 8.1,
+    "year": 2022,
+    "budget": 35000000,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+    "position": 192,
+    "id": "9568754d-de7a-43f6-9688-269fd1e45388"
+  },
+  {
+    "title": "Oppenheimer",
+    "rating": 8.1,
+    "year": 2023,
+    "budget": 100000000,
+    "gross": 952000000,
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "position": 193,
+    "id": "7f27d170-ffbb-4086-8595-7935a295959d"
+  },
+  {
+    "title": "Prayers for Bobby",
+    "rating": 8.1,
+    "year": 2009,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/1viFwXluAettogGDsTrSUUg29lZ.jpg",
+    "position": 194,
+    "id": "84afd6c0-50ec-4062-9467-b992a8e92f27"
+  },
+  {
+    "title": "Along with the Gods: The Two Worlds",
+    "rating": 8.078,
+    "year": 2017,
+    "budget": 18300000,
+    "gross": 125983972,
+    "poster": "https://image.tmdb.org/t/p/w500/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg",
+    "position": 195,
+    "id": "3a5506f5-73dd-4085-ac17-dedb782f0391"
+  },
+  {
+    "title": "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson",
+    "rating": 8.077,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg",
+    "position": 196,
+    "id": "ed4a7006-c0b5-46ea-a48c-aebc4cac1b90"
+  },
+  {
+    "title": "A Taxi Driver",
+    "rating": 8.1,
+    "year": 2017,
+    "budget": 12820005,
+    "gross": 81927980,
+    "poster": "https://image.tmdb.org/t/p/w500/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg",
+    "position": 197,
+    "id": "b61a8b80-bd0b-4370-9b62-a5cb955e24aa"
+  },
+  {
+    "title": "Believe Me: The Abduction of Lisa McVey",
+    "rating": 8.075,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg",
+    "position": 198,
+    "id": "ac3057d5-f138-45db-9493-46f622636c77"
+  },
+  {
+    "title": "There Will Be Blood",
+    "rating": 8.075,
+    "year": 2007,
+    "budget": 25000000,
+    "gross": 77208711,
+    "poster": "https://image.tmdb.org/t/p/w500/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+    "position": 199,
+    "id": "67a691fb-09f8-4574-ada5-ae86b8795133"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "rating": 8.1,
+    "year": 2005,
+    "budget": 28000000,
+    "gross": 121600000,
+    "poster": "https://image.tmdb.org/t/p/w500/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+    "position": 200,
+    "id": "36fc24b7-cffe-4c64-87a4-c9040d7bb92d"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "rating": 8.1,
+    "year": 1968,
+    "budget": 12000000,
+    "gross": 71923560,
+    "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "position": 201,
+    "id": "64d45324-f4b2-4e5a-8a37-8f41882f1e38"
+  },
+  {
+    "title": "Rashomon",
+    "rating": 8.1,
+    "year": 1950,
+    "budget": 250000,
+    "gross": 117668,
+    "poster": "https://image.tmdb.org/t/p/w500/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+    "position": 202,
+    "id": "630825f7-267d-490b-a472-bf4d1a01d06c"
+  },
+  {
+    "title": "Sherlock Jr.",
+    "rating": 8.1,
+    "year": 1924,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+    "position": 203,
+    "id": "bc3553d1-6861-4676-818b-b3797154aeec"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "rating": 8.07,
+    "year": 1988,
+    "budget": 3700000,
+    "gross": 41000000,
+    "poster": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+    "position": 204,
+    "id": "2dcfc047-83bb-4380-a11c-3c0428049640"
+  },
+  {
+    "title": "Lion",
+    "rating": 8.1,
+    "year": 2016,
+    "budget": 12000000,
+    "gross": 140312928,
+    "poster": "https://image.tmdb.org/t/p/w500/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
+    "position": 205,
+    "id": "47602eb0-9f9d-4777-bf3d-43031f7fec05"
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "rating": 8.1,
+    "year": 2017,
+    "budget": 15000000,
+    "gross": 162729321,
+    "poster": "https://image.tmdb.org/t/p/w500/pZRhqJj0DBy4ghB7g6pU7MGHsWJ.jpg",
+    "position": 206,
+    "id": "0a71b02f-5c04-49f9-b457-ebc768131c99"
+  },
+  {
+    "title": "A Dog's Journey",
+    "rating": 8.067,
+    "year": 2019,
+    "budget": 16000000,
+    "gross": 78871079,
+    "poster": "https://image.tmdb.org/t/p/w500/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
+    "position": 207,
+    "id": "23582e85-e4cb-4f0e-8b6a-a6e169562ba8"
+  },
+  {
+    "title": "Samsara",
+    "rating": 8.065,
+    "year": 2011,
+    "budget": 4000000,
+    "gross": 2639616,
+    "poster": "https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg",
+    "position": 208,
+    "id": "9507d240-0fc8-43ae-8361-0d9cda2412f1"
+  },
+  {
+    "title": "Ran",
+    "rating": 8.1,
+    "year": 1985,
+    "budget": 11500005,
+    "gross": 11859533,
+    "poster": "https://image.tmdb.org/t/p/w500/1aqxiP3g2OHxMVWYXH1D6iH96Oq.jpg",
+    "position": 209,
+    "id": "46a5e047-ade7-41d0-8570-3e4eb99874b8"
+  },
+  {
+    "title": "The Thing",
+    "rating": 8.064,
+    "year": 1982,
+    "budget": 15000000,
+    "gross": 19629760,
+    "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+    "position": 210,
+    "id": "15da7ab0-e63e-4de8-b4be-c2e44d421e8f"
+  },
+  {
+    "title": "Memories of Murder",
+    "rating": 8.1,
+    "year": 2003,
+    "budget": 2800000,
+    "gross": 26000000,
+    "poster": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+    "position": 211,
+    "id": "c8499237-bb7a-49dc-8dd3-36b2d34d5505"
+  },
+  {
+    "title": "A Special Day",
+    "rating": 8.1,
+    "year": 1977,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/jzRn7N1mFowkQ5IkUkfWoxXJtYU.jpg",
+    "position": 212,
+    "id": "df03b099-d6a6-47bd-9013-8e4f07d1e38f"
+  },
+  {
+    "title": "Dear Zachary: A Letter to a Son About His Father",
+    "rating": 8.1,
+    "year": 2008,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+    "position": 213,
+    "id": "c9938e3f-37fb-4621-9ea6-18fff0d63934"
+  },
+  {
+    "title": "Hidden Figures",
+    "rating": 8.058,
+    "year": 2016,
+    "budget": 25000000,
+    "gross": 236000000,
+    "poster": "https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+    "position": 214,
+    "id": "5b40bcda-3aae-4366-84e0-d83c36567704"
+  },
+  {
+    "title": "Robot Dreams",
+    "rating": 8.055,
+    "year": 2023,
+    "budget": 5300000,
+    "gross": 4656348,
+    "poster": "https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+    "position": 215,
+    "id": "a8b8ce97-d95a-478e-a369-3fd709ac882a"
+  },
+  {
+    "title": "How to Train Your Dragon: Homecoming",
+    "rating": 8.055,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
+    "position": 216,
+    "id": "30deade4-8fed-4e58-8ef9-0e4f82776a3f"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "rating": 8,
+    "year": 2014,
+    "budget": 30000000,
+    "gross": 174600318,
+    "poster": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "position": 217,
+    "id": "506af16a-ef18-48f3-b7d2-ee5e00bd67c6"
+  },
+  {
+    "title": "My Name Is Khan",
+    "rating": 8,
+    "year": 2010,
+    "budget": 12000000,
+    "gross": 42345360,
+    "poster": "https://image.tmdb.org/t/p/w500/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+    "position": 218,
+    "id": "a0d58dff-48d1-40f0-a3b0-82d8d27bf851"
+  },
+  {
+    "title": "Rocco and His Brothers",
+    "rating": 8,
+    "year": 1960,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/pngL8AraChIDOiWnKF2o3S9kJzJ.jpg",
+    "position": 219,
+    "id": "fac497be-08f8-4c3d-b153-b5d7b8540f26"
+  },
+  {
+    "title": "Judgment at Nuremberg",
+    "rating": 8.044,
+    "year": 1961,
+    "budget": 3000000,
+    "gross": 10000000,
+    "poster": "https://image.tmdb.org/t/p/w500/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+    "position": 220,
+    "id": "80eeec40-c874-4eb7-8661-b8c902d3de0a"
+  },
+  {
+    "title": "Elite Squad",
+    "rating": 8.043,
+    "year": 2007,
+    "budget": 4000000,
+    "gross": 14759148,
+    "poster": "https://image.tmdb.org/t/p/w500/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+    "position": 221,
+    "id": "70d063c8-ddda-40cc-a7f6-a46753139c59"
+  },
+  {
+    "title": "The Second Mother",
+    "rating": 8.042,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/u1tDQun2iJAzersd94S8P47WEOL.jpg",
+    "position": 222,
+    "id": "2d63f184-0c8c-4533-b468-9ae786278af4"
+  },
+  {
+    "title": "The 400 Blows",
+    "rating": 8.036,
+    "year": 1959,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+    "position": 223,
+    "id": "7fe923ce-7e2f-47e1-92f9-fcfecf0fefb3"
+  },
+  {
+    "title": "On My Skin",
+    "rating": 8,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/rwPgE6fLxuJmPWi8fFjgENJMAjr.jpg",
+    "position": 224,
+    "id": "b182d435-a904-4153-8054-07a11c89c101"
+  },
+  {
+    "title": "The Elephant Man",
+    "rating": 8.034,
+    "year": 1980,
+    "budget": 5000000,
+    "gross": 26000000,
+    "poster": "https://image.tmdb.org/t/p/w500/3SInR81qnXjY7Or5qXyiQLmWfEh.jpg",
+    "position": 225,
+    "id": "5898a314-7946-4301-8ecb-90d985b549dd"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "rating": 8.033,
+    "year": 2013,
+    "budget": 100000000,
+    "gross": 392000000,
+    "poster": "https://image.tmdb.org/t/p/w500/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+    "position": 226,
+    "id": "8afe4f5b-ac58-42e8-976b-5801ead20b1f"
+  },
+  {
+    "title": "Amadeus",
+    "rating": 8,
+    "year": 1984,
+    "budget": 18000000,
+    "gross": 90000000,
+    "poster": "https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+    "position": 227,
+    "id": "c134f680-a5a6-4f9a-9d12-c30c29ce7e76"
+  },
+  {
+    "title": "Gifted",
+    "rating": 8,
+    "year": 2017,
+    "budget": 7000000,
+    "gross": 40300000,
+    "poster": "https://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg",
+    "position": 228,
+    "id": "fe108b53-7d4f-486b-a132-23404434ae41"
+  },
+  {
+    "title": "The Lives of Others",
+    "rating": 8,
+    "year": 2006,
+    "budget": 2000000,
+    "gross": 70000000,
+    "poster": "https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+    "position": 229,
+    "id": "694f52f3-55d3-4812-85e5-cb39e4530fbb"
+  },
+  {
+    "title": "The Wages of Fear",
+    "rating": 8,
+    "year": 1953,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/sNOvIp4X0fmCMfgEs2ww5IyMgFm.jpg",
+    "position": 230,
+    "id": "6bcc84d3-aa0a-4717-a633-786071ce121f"
+  },
+  {
+    "title": "Society of the Snow",
+    "rating": 8.022,
+    "year": 2023,
+    "budget": 65500000,
+    "gross": 1281,
+    "poster": "https://image.tmdb.org/t/p/w500/2e853FDVSIso600RqAMunPxiZjq.jpg",
+    "position": 231,
+    "id": "87215ff3-41e8-4785-a8ba-1e504a48e542"
+  },
+  {
+    "title": "The Sting",
+    "rating": 8,
+    "year": 1973,
+    "budget": 5500000,
+    "gross": 159616327,
+    "poster": "https://image.tmdb.org/t/p/w500/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
+    "position": 232,
+    "id": "2e579151-9cef-4851-9582-3c31d93c656e"
+  },
+  {
+    "title": "Room",
+    "rating": 8.021,
+    "year": 2015,
+    "budget": 13000000,
+    "gross": 35401758,
+    "poster": "https://image.tmdb.org/t/p/w500/dIxoYFcj6EqD5KScuU8lWCftnvH.jpg",
+    "position": 233,
+    "id": "564e7cff-43d5-445e-9908-dc0ab9029f9d"
+  },
+  {
+    "title": "All Your Faces",
+    "rating": 8.02,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/zIgyDGsmIyMAf0ppg7QKTuIM1He.jpg",
+    "position": 234,
+    "id": "85065832-a838-4ce8-ac06-c097c680d302"
+  },
+  {
+    "title": "Flipped",
+    "rating": 8,
+    "year": 2010,
+    "budget": 14000000,
+    "gross": 4324817,
+    "poster": "https://image.tmdb.org/t/p/w500/6zDYFigohwncqFL00MKbFV01dWb.jpg",
+    "position": 235,
+    "id": "ecdd6a56-b79c-46fb-ac13-a47754d2f662"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "rating": 8,
+    "year": 2000,
+    "budget": 4500000,
+    "gross": 7390108,
+    "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+    "position": 236,
+    "id": "ae0580d7-2cc1-4ddb-a52a-1f465662a169"
+  },
+  {
+    "title": "Jojo Rabbit",
+    "rating": 8,
+    "year": 2019,
+    "budget": 14000000,
+    "gross": 82468705,
+    "poster": "https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+    "position": 237,
+    "id": "c957601c-f10f-4e8e-9a6f-2db4f87b18bd"
+  },
+  {
+    "title": "Dial M for Murder",
+    "rating": 8,
+    "year": 1954,
+    "budget": 1400000,
+    "gross": 3000000,
+    "poster": "https://image.tmdb.org/t/p/w500/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+    "position": 238,
+    "id": "e52a3814-0104-435b-8c11-08d48591453f"
+  },
+  {
+    "title": "For a Few Dollars More",
+    "rating": 8.016,
+    "year": 1965,
+    "budget": 600000,
+    "gross": 15000000,
+    "poster": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+    "position": 239,
+    "id": "9ff8c131-62b3-4c81-b2a2-14f5c1c5d9f0"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "rating": 8.016,
+    "year": 2004,
+    "budget": 130000000,
+    "gross": 789804554,
+    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+    "position": 240,
+    "id": "27823a4f-c416-4b29-99b6-2812fc2ff741"
   }
 ]
